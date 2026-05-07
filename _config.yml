@@ -5,7 +5,7 @@ lang: fr-FR
 chapters:
  - title: Cours-web
    url: https://cours-web.ch/
- - title: IA
+ - title: 3D Printing
    url: https://cours-web.ch/3d-print/
    
 # Content is split in three columns.   
